@@ -1,0 +1,266 @@
+/*-----FONTS-----*/
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fcf7f2;
+}
+
+.bymanitas-text-title{
+    font-size: 55px;
+}
+
+.bymanitas-text-subtitle{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.bymanitas-text-description,
+.bymanitas-text-footer{
+    font-size: 14px;
+}
+
+.bymanitas-text-banner{
+    font-size: 12px;
+}
+
+.bymanitas-icon-angle{
+    font-size: 30px;
+}
+
+/*-----STRUCTURE-----*/
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    color:#000;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.bymanitas-section-small{
+    max-width: 600px;
+}
+
+.bymanitas-section-fullscreen{
+    height: 100vh;
+}
+
+.bymanitas-section-halfscreen{
+    height: 50vh;
+}
+
+.bymanitas-text-align-center{
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.bymanitas-image-align-center{
+    text-align: center;
+}
+
+.bymanitas-image-align-center > img {
+    height: 8rem;
+}
+
+.bymanitas-box{
+    border-color: #aaa;
+    border-style: solid;
+    border-width: 1px;
+    -webkit-box-shadow: 2px 2px 5px #aaaaaa;
+    box-shadow: 2px 2px 5px #aaaaaa;
+}
+
+.bymanitas-container{
+    min-height: 100px;
+    padding: 10px;
+}
+
+.hidden{
+    display:none;
+}
+
+.bymanitas-history{
+    position: relative;
+}
+
+.bymanitas-title a,
+.bymanitas-history a {
+    position: absolute;
+    bottom: 20px;
+    left: 48%;
+    z-index: 2;
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+    -webkit-transition: opacity .3s;
+    -o-transition: opacity .3s;
+    transition: opacity .3s;
+}
+.bymanitas-title a:hover {
+    opacity: .5;
+}
+
+#sectionTitle a {
+    padding-top: 80px;
+}
+
+#sectionTitle a .bymanitas-scroll-arrow,
+#sectionHistory a .bymanitas-scroll-arrow {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
+    -webkit-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    -webkit-animation: sdb07 2s infinite;
+    animation: sdb07 2s infinite;
+    opacity: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#sectionTitle a .bymanitas-scroll-arrow:nth-of-type(1){
+    -webkit-animation-delay: 0s;
+    animation-delay: 0s;
+}
+
+#sectionHistory a .bymanitas-scroll-arrow:nth-of-type(1) {
+    top: -72px;
+    -webkit-animation-delay: 0s;
+    animation-delay: 0s;
+}
+
+#sectionTitle a .bymanitas-scroll-arrow:nth-of-type(2){
+    top: 16px;
+    -webkit-animation-delay: .15s;
+    animation-delay: .15s;
+}
+
+#sectionHistory a .bymanitas-scroll-arrow:nth-of-type(2) {
+    top: -56px;
+    -webkit-animation-delay: .15s;
+    animation-delay: .15s;
+}
+
+#sectionTitle a .bymanitas-scroll-arrow:nth-of-type(3){
+    top: 32px;
+    -webkit-animation-delay: .3s;
+    animation-delay: .3s;
+}
+
+#sectionHistory a .bymanitas-scroll-arrow:nth-of-type(3) {
+    top: -40px;
+    -webkit-animation-delay: .3s;
+    animation-delay: .3s;
+}
+
+.bymanitas-box a{
+    color: #4a4a4a;
+}
+
+@-webkit-keyframes sdb07 {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes sdb07 {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+/*-----BACKGROUND-----*/
+.bymanitas-bg-primary{
+    background-image: url('Assets/Images/leaves-pattern.png');
+}
+
+.bymanitas-bg-secondary{
+    background-color: white;
+}
+
+.is-highlighted-red{
+    color: red!important;
+}
+
+/*-----LINKS-----*/
+.bymanitas-link-primary {
+    color: #000;
+}
+
+.bymanitas-link-primary:hover {
+    text-decoration: none;
+    color: #999!important;
+}
+
+/*-----BUTTONS-----*/
+button.cookie-banner{
+    font-size: 12px;
+    background-color: #aaa;
+    color: white;
+}
+
+/*-----MARGINS-----*/
+.margin-medium{
+    margin: 10px!important;
+}
+
+.margin-bottom-medium{
+    margin-bottom: 20px!important;
+}
+
+.no-margin{
+    margin: 0px;
+}
+
+
+/*-----MEDIA QUERY MOBILE-----*/
+@media only screen and (max-width : 640px) {
+    .by-manitas-img-grid-wrapper:hover .by-manitas-img-text {
+        visibility: hidden;
+    }
+
+    .by-manitas-img-grid:hover {
+        opacity: 1;
+    }
+
+    footer{
+        font-size: 0.8rem;
+    }
+
+    .bymanitas-text-subtitle{
+        font-size: 16px;
+    }
+
+    .bymanitas-image-align-center > img {
+        height: 5rem;
+    }
+}

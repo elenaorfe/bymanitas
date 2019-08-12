@@ -1,0 +1,589 @@
+{
+	"en":{
+		"amigurumis":[
+			{
+				"id":1,
+				"name":"keychain",
+				"photo":[
+					"1",
+					"1_1",
+					"1_2",
+					"1_3",
+					"1_4"
+				],
+				"details":{
+					"id":"?keychain",
+					"name":"Keychain",
+					"description1":"Ball keychain 100% handmade",
+					"description2":"It can be customised with your favourits colors",
+					"size":"Size: 2cm x 2cm",
+					"contact":"Do you like this keychain or want to customize it?"
+				}
+			},
+			{
+				"id":2,
+				"name":"pig",
+				"photo":[
+					"2",
+					"2_1",
+					"2_2",
+					"2_3",
+					"2_4"
+				],
+				"details":{
+					"id":"?pig",
+					"name":"Pig",
+					"description1":"100% handmade pig",
+					"size":"Size: 4cm x 4cm",
+					"contact":"Do yo like this pig or want another animal?"
+				}
+			},
+			{
+				"id":3,
+				"name":"owl",
+				"photo":[
+					"3",
+					"3_1",
+					"3_2",
+					"3_3",
+					"3_4"
+				],
+				"details":{
+					"id":"?owl",
+					"name":"Owl",
+					"description1":"100% handmade Owl",
+					"description2":"Puedes personalizarlo con tus colores favoritos",
+					"size":"Tamaño: 10cm",
+					"contact":"¿Te gusta este buho o quieres otro animal?"
+				}
+			},
+			{
+				"id":4,
+				"name":"monkey",
+				"photo":[
+					"4",
+					"4_1",
+					"4_2",
+					"4_3",
+					"4_4"
+				],
+				"details":{
+					"id":"?monkey",
+					"name":"Monkey",
+					"description1":"100% handmade Monkey",
+					"size":"Size: 10cm",
+					"contact":"Do you like this monkey or want another animal?"
+				}
+			},
+			{
+				"id":5,
+				"name":"rabit",
+				"photo":[
+					"5",
+					"5_1",
+					"5_2",
+					"5_3",
+					"5_4"
+				],
+				"details":{
+					"id":"?rabit",
+					"name":"Rabit",
+					"description1":"100% handmade Rabit",
+					"description2":"It can be customised with your favourit colors",
+					"size":"Size: 10cm",
+					"contact":"Do you like this rabit or want another animal?"
+				}
+			},
+			{
+				"id":6,
+				"name":"wedding",
+				"photo":[
+					"6",
+					"6_1",
+					"6_2",
+					"6_3",
+					"6_4"
+				],
+				"details":{
+					"id":"?wedding",
+					"name":"Wedding Couple",
+					"description1":"100% handmade Wedding Couple",
+					"description2":"Customised gift and ideal for that great day",
+					"size":"Tamaño: 8cm",
+					"contact":"¿Te gusta esta pareja de novios o la quieres personalizar?"
+				}
+			},
+			{
+				"id":7,
+				"name":"duck",
+				"photo":[
+					"7",
+					"7_1",
+					"7_2",
+					"7_3",
+					"7_4"
+				],
+				"details":{
+					"id":"?duck",
+					"name":"Duck",
+					"description1":"100% handmade Duck",
+					"size":"Size: 8cm",
+					"contact":"Do you like this duck or want another animal?"
+				}
+			},
+			{
+				"id":8,
+				"name":"bear",
+				"photo":[
+					"8",
+					"8_1",
+					"8_2",
+					"8_3",
+					"8_4"
+				],
+				"details":{
+					"id":"?bear",
+					"name":"Bear",
+					"description1":"100% handmade Teddy Bear",
+					"description2":"It can be customised with your favourite color",
+					"size":"Size: 5cm",
+					"contact":"Do you like this bear or want another animal?"
+				}
+			},
+			{
+				"id":9,
+				"name":"donkey",
+				"photo":[
+					"9",
+					"9_1",
+					"9_2",
+					"9_3",
+					"9_4"
+				],
+				"details":{
+					"id":"?donkey",
+					"name":"Donkey",
+					"description1":"100% handmade Donkey",
+					"size":"Size: 12cm",
+					"contact":"Do you like this donkey or want another animal?"
+				}
+			},
+			{
+				"id":10,
+				"name":"camel",
+				"photo":[
+					"10",
+					"10_1",
+					"10_2",
+					"10_3",
+					"10_4"
+				],
+				"details":{
+					"id":"?camel",
+					"name":"Camel",
+					"description1":"100% handmade Camel",
+					"size":"Size: 20cm",
+					"contact":"Do you like this camel or want another animal?"
+				}
+			},
+			{
+				"id":11,
+				"name":"elephant",
+				"photo":[
+					"11",
+					"11_1",
+					"11_2",
+					"11_3",
+					"11_4"
+				],
+				"details":{
+					"id":"?elephant",
+					"name":"Elephant",
+					"description1":"100% handmade Elephant",
+					"size":"Size: 20cm",
+					"contact":"Do you like this elephant or want another animal?"
+				}
+			},
+			{
+				"id":12,
+				"name":"bearbox",
+				"photo":[
+					"12",
+					"12_1",
+					"12_2",
+					"12_3",
+					"12_4"
+				],
+				"details":{
+					"id":"?bearbox",
+					"name":"Bear Box",
+					"description1":"100% handmade box with shape of bear",
+					"description2":"Very usefull to store small stuffs",
+					"size":"Size: 20cm",
+					"contact":"Do you like this bear box or want another animal?"
+				}
+			},
+			{
+				"id":13,
+				"name":"rooster",
+				"photo":[
+					"13",
+					"13_1",
+					"13_2",
+					"13_3",
+					"13_4"
+				],
+				"details":{
+					"id":"?rooster",
+					"name":"Rooster",
+					"description1":"100% handmade Rooster",
+					"size":"Size: 30cm",
+					"contact":"Do you like this rooster or want another animal?"
+				}
+			},
+			{
+				"id":14,
+				"name":"cactus",
+				"photo":[
+					"14",
+					"14_1",
+					"14_2",
+					"14_3",
+					"14_4"
+				],
+				"details":{
+					"id":"?cactus",
+					"name":"Cactus",
+					"description1":"100% handmade Cactus",
+					"description2":"Ideal to decorate your room",
+					"size":"Size: 20cm",
+					"contact":"Do you like this cactus or want another plant?"
+				}
+			},
+			{
+				"id":15,
+				"name":"toast",
+				"photo":[
+					"15",
+					"15_1",
+					"15_2",
+					"15_3",
+					"15_4"
+				],
+				"details":{
+					"id":"?toast",
+					"name":"Toast",
+					"description1":"100% handmade toast",
+					"size":"Size: 15cm",
+					"contact":"Do you like this toast?"
+				}
+			},
+			{
+				"id":0,
+				"name":"customize",
+				"photo":[
+					"0"
+				],
+				"details":{
+					"id":"?cutomize",
+					"name":"Customize",
+					"description1":"¿No encuentras?"
+				}
+			}
+		]
+	},
+	"es":{
+		"amigurumis":[
+			{
+				"id":1,
+				"name":"llavero",
+				"photo":[
+					"1",
+					"1_1",
+					"1_2",
+					"1_3",
+					"1_4"
+				],
+				"details":{
+					"id":"?llavero",
+					"name":"Llavero",
+					"description1":"Llavero con forma de bola hecho 100% a mano",
+					"description2":"Puedes personalizarlo con tus colores favoritos",
+					"size":"Tamaño: 2cm x 2cm",
+					"contact":"¿Te gusta este llavero o quieres personalizarlo?"
+				}
+			},
+			{
+				"id":2,
+				"name":"cerdito",
+				"photo":[
+					"2",
+					"2_1",
+					"2_2",
+					"2_3",
+					"2_4"
+				],
+				"details":{
+					"id":"?cerdito",
+					"name":"Cerdito",
+					"description1":"Cerdito de peluche hecho 100% a mano",
+					"size":"Tamaño: 4cm x 4cm",
+					"contact":"¿Te gusta este cerdito o quieres otro animal?"
+				}
+			},
+			{
+				"id":3,
+				"name":"buho",
+				"photo":[
+					"3",
+					"3_1",
+					"3_2",
+					"3_3",
+					"3_4"
+				],
+				"details":{
+					"id":"?buho",
+					"name":"Buho",
+					"description1":"Buho de peluche hecho 100% a mano",
+					"description2":"Puedes personalizarlo con tus colores favoritos",
+					"size":"Tamaño: 10cm",
+					"contact":"¿Te gusta este buho o quieres otro animal?"
+				}
+			},
+			{
+				"id":4,
+				"name":"mono",
+				"photo":[
+					"4",
+					"4_1",
+					"4_2",
+					"4_3",
+					"4_4"
+				],
+				"details":{
+					"id":"?mono",
+					"name":"Mono",
+					"description1":"Mono de peluche hecho 100% a mano",
+					"size":"Tamaño: 10cm",
+					"contact":"¿Te gusta este mono o quieres otro animal?"
+				}
+			},
+			{
+				"id":5,
+				"name":"conejo",
+				"photo":[
+					"5",
+					"5_1",
+					"5_2",
+					"5_3",
+					"5_4"
+				],
+				"details":{
+					"id":"?conejo",
+					"name":"Conejo",
+					"description1":"Conejo de peluche hecho 100% a mano",
+					"description2":"Puedes personalizarlo con tus colores favoritos",
+					"size":"Tamaño: 10cm",
+					"contact":"¿Te gusta este conejo o quieres otro animal?"
+				}
+			},
+			{
+				"id":6,
+				"name":"novios",
+				"photo":[
+					"6",
+					"6_1",
+					"6_2",
+					"6_3",
+					"6_4"
+				],
+				"details":{
+					"id":"?novios",
+					"name":"Novios",
+					"description1":"Novios de peluche hecho 100% a mano",
+					"description2":"Regalo personalizado e ideal para ese gran día",
+					"size":"Tamaño: 8cm",
+					"contact":"¿Te gusta esta pareja de novios o la quieres personalizar?"
+				}
+			},
+			{
+				"id":7,
+				"name":"pato",
+				"photo":[
+					"7",
+					"7_1",
+					"7_2",
+					"7_3",
+					"7_4"
+				],
+				"details":{
+					"id":"?pato",
+					"name":"Pato",
+					"description1":"Pato de peluche hecho 100% a mano",
+					"size":"Tamaño: 8cm",
+					"contact":"¿Te gusta este pato o quieres otro animal?"
+				}
+			},
+			{
+				"id":8,
+				"name":"oso",
+				"photo":[
+					"8",
+					"8_1",
+					"8_2",
+					"8_3",
+					"8_4"
+				],
+				"details":{
+					"id":"?oso",
+					"name":"Oso",
+					"description1":"Oso de peluche hecho 100% a mano",
+					"description2":"Puedes personalizarlo con tus colores favoritos",
+					"size":"Tamaño: 5cm",
+					"contact":"¿Te gusta este oso o quieres otro animal?"
+				}
+			},
+			{
+				"id":9,
+				"name":"burrito",
+				"photo":[
+					"9",
+					"9_1",
+					"9_2",
+					"9_3",
+					"9_4"
+				],
+				"details":{
+					"id":"?burrito",
+					"name":"Burrito",
+					"description1":"Burrito de peluche hecho 100% a mano",
+					"description2":"Puedes personalizarlo con tus colores favoritos",
+					"size":"Tamaño: 12cm",
+					"contact":"¿Te gusta este burrito o quieres otro animal?"
+				}
+			},
+			{
+				"id":10,
+				"name":"camello",
+				"photo":[
+					"10",
+					"10_1",
+					"10_2",
+					"10_3",
+					"10_4"
+				],
+				"details":{
+					"id":"?camello",
+					"name":"Camello",
+					"description1":"Camello de peluche hecho 100% a mano",
+					"size":"Tamaño: 20cm",
+					"contact":"¿Te gusta este camello o quieres otro animal?"
+				}
+			},
+			{
+				"id":11,
+				"name":"elefante",
+				"photo":[
+					"11",
+					"11_1",
+					"11_2",
+					"11_3",
+					"11_4"
+				],
+				"details":{
+					"id":"?elefante",
+					"name":"Elefante",
+					"description1":"Elefante de peluche hecho 100% a mano",
+					"size":"Tamaño: 20cm",
+					"contact":"¿Te gusta este elefante o quieres otro animal?"
+				}
+			},
+			{
+				"id":12,
+				"name":"cajaoso",
+				"photo":[
+					"12",
+					"12_1",
+					"12_2",
+					"12_3",
+					"12_4"
+				],
+				"details":{
+					"id":"?cajaoso",
+					"name":"Caja Osito",
+					"description1":"Cajita con forma de oso hecho 100% a mano",
+					"description2":"Muy práctico para guardar pequeñas cosas",
+					"size":"Tamaño: 20cm",
+					"contact":"¿Te gusta esta caja con forma de oso o quieres otro animal?"
+				}
+			},
+			{
+				"id":13,
+				"name":"gallo",
+				"photo":[
+					"13",
+					"13_1",
+					"13_2",
+					"13_3",
+					"13_4"
+				],
+				"details":{
+					"id":"?gallo",
+					"name":"Gallo",
+					"description1":"Gallo de peluche hecho 100% a mano",
+					"size":"Tamaño: 30cm",
+					"contact":"¿Te gusta este gallo o quieres otro animal?"
+				}
+			},
+			{
+				"id":14,
+				"name":"cactus",
+				"photo":[
+					"14",
+					"14_1",
+					"14_2",
+					"14_3",
+					"14_4"
+				],
+				"details":{
+					"id":"?cactus",
+					"name":"Cactus",
+					"description1":"Cactus de peluche hecho 100% a mano",
+					"description2":"Perfecto para decorar tu habitación",
+					"size":"Tamaño: 20cm",
+					"contact":"¿Te gusta este cactus o quieres otra planta?"
+				}
+			},
+			{
+				"id":15,
+				"name":"tostada",
+				"photo":[
+					"15",
+					"15_1",
+					"15_2",
+					"15_3",
+					"15_4"
+				],
+				"details":{
+					"id":"?tostada",
+					"name":"Tostada",
+					"description1":"Tostada de peluche hecho 100% a mano",
+					"size":"Tamaño: 15cm",
+					"contact":"¿Te gusta esta tostada?"
+				}
+			},
+			{
+				"id":0,
+				"name":"personalizalo!",
+				"photo":[
+					"0"
+				],
+				"details":{
+					"id":"?personaliza",
+					"name":"¡Personalizalo!",
+					"description1":"¿Buscas otro diseño? No dudes en contactarnos"
+				}
+			}
+		]
+	}
+}
